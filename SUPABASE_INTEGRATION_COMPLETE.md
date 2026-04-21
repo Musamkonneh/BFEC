@@ -8,7 +8,7 @@ Your School Management System has been **fully integrated with Supabase** for cl
 
 ### 1. Configuration Updated ✅
 - **Supabase URL**: `https://zvmftgptxrpkgvvmivtr.supabase.co`
-- **API Key**: `sb_publishable_Xh6q2He9p_DM2rl-u5rkow_-PMH18Bn`
+- **API Key**: sb_publishable_Xh6q2He9p_DM2rl-u5rkow_-PMH18Bn
 - Updated in `index.html` and `create_admin.bat`
 
 ### 2. Registration Enhanced ✅
